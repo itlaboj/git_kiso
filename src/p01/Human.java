@@ -14,6 +14,6 @@ public class Human extends Member {
 	}
 	
 	public void introduce() {
-		
+		System.out.println("AAA");
 	}
 }

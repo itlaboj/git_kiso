@@ -1,6 +1,6 @@
 package p01;
 
-public class Human {
+public class Human extends Member {
 	String name;
 	int age;
 	

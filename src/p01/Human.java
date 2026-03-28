@@ -5,7 +5,7 @@ public class Human extends Member {
 	int age;
 	
 	public Human() {
-		System.out.println("aaa");
+		
 	}
 
 	public Human(String name, int age) {

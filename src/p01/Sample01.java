@@ -7,6 +7,7 @@ public class Sample01 {
 		System.out.println(23);
 		System.out.println("ABC株式会社");
 		System.out.println("A型");
+		System.out.println("2026/03/31");
 	}
 
 }

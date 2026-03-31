@@ -7,4 +7,8 @@ public class Member {
 	public Member() {
 		
 	}
+	
+	public void display() {
+		
+	}
 }

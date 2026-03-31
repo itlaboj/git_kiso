@@ -9,6 +9,6 @@ public class Member {
 	}
 	
 	public void display() {
-		
+		System.out.println("個人の目標：" + myGoal);
 	}
 }

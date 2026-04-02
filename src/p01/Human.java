@@ -19,5 +19,6 @@ public class Human extends Member {
 		System.out.println("CCC");
 		System.out.println("DDD");
 		System.out.println("EEE");
+		System.out.println("山田太郎");
 	}
 }
